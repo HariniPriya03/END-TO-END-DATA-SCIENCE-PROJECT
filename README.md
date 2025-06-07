@@ -64,7 +64,8 @@ This project highlights a complete cycle of machine learning application develop
 
 By using Python libraries like pandas, scikit-learn, Flask, and joblib, and leveraging Visual Studio Code as a development environment, I was able to build, test, and run this project efficiently. This approach is highly scalable and can be adapted for many other ML-powered applications.
 
-
+# Output
+![Image](https://github.com/user-attachments/assets/acba9d07-2cc6-4fb3-8356-b9f32953fa04)
 
 
 
